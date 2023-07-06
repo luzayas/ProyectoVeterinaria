@@ -1,1 +1,0 @@
-(nombre_cliente, dni, contacto)
